@@ -8,6 +8,8 @@ var hIndex = function(citations) {
         i++;
     }
 
+    console.log("test");
+
     return i;
 
 };
